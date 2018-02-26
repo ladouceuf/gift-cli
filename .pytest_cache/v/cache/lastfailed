@@ -1,0 +1,3 @@
+{
+  "tests/commands/test_reset.py::TestReset::test_reset": true
+}

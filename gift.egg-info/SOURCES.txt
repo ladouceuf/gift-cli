@@ -1,0 +1,13 @@
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+gift/__init__.py
+gift/__main__.py
+gift/cli.py
+gift/commands/__init__.py
+gift/commands/base.py
+gift/commands/hello.py
+gift/commands/register.py
+tests/test_cli.py
+tests/commands/test_hello.py
